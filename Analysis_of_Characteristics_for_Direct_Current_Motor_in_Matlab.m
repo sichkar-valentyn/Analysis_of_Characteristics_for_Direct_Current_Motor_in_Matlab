@@ -1,3 +1,15 @@
+% File: Analysis_of_Characteristics_for_Direct_Current_Motor_in_Matlab.m
+% Description: Analysis of Characteristics for Direct Current Motor in Matlab
+% Environment: Matlab
+%
+% MIT License
+% Copyright (c) 2017 Valentyn N Sichkar
+% github.com/sichkar-valentyn
+%
+% Reference to:
+% [1] Valentyn N Sichkar. Analysis of Characteristics for Direct Current Motor in Matlab // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Analysis_of_Characteristics_for_Direct_Current_Motor_in_Matlab (date of access: XX.XX.XXXX)
+
+
 %Simulation of Linear Control System using Functions From Control System Toolbox
 %Analysis of Characteristics for Direct Current Motor
 close all;
