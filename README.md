@@ -1,6 +1,9 @@
 # Analysis of Characteristics for Direct Current Motor in Matlab
 Simulation of Linear Control Systems using Functions From Control System Toolbox in Matlab
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Analysis of Characteristics for Direct Current Motor in Matlab // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Analysis_of_Characteristics_for_Direct_Current_Motor_in_Matlab (date of access: XX.XX.XXXX)
 
